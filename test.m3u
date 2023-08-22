@@ -44,7 +44,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTINF:0 tvg-logo="https://i0.wp.com/www.maxmanroe.com/wp-content/uploads/2015/03/Net-TV-Media-Elektronik-Indonesia.png?fit=603%2C206&ssl=1" group-title="Local",NET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
-https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685758bcfff01776bc7624307ab/56871875ec704e159dc52be1c6bbabc3.png" group-title="Local",NET TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
