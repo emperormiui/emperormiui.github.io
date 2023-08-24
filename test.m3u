@@ -341,7 +341,7 @@ http://122.248.43.138:1935/ch16/myStream/chunklist_w95313482.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zD7jwq2N/20221117-134914.png" group-title="TV Daerah",Sultra TV
 http://122.248.43.138:1935/ch20/myStream/chunklist_w1190267982.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/K8kDyBGc/20221117-134856.png " group-title="TV Daerah",RCTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8kDyBGc/20221117-134856.png " group-title="TV Daerah",RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yN0hDK3w/20221117-134835.png" group-title="TV Daerah",Nusantara TV
