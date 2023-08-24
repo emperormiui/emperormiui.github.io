@@ -923,6 +923,12 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg350production/ch368/02.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Wired 2 Fish" tvg-logo="https://i.postimg.cc/3R2x0p8r/ln4k.png" group-title="Knowledge",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJHwKMfK/discosc.png" group-title="Knowledge",Discovery Science
+http://iptvtree.net:8080/live/LeCyGodF/thYAg86ShLywX9FL/157530.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkSFnFt4/discow.png" group-title="Knowledge",Discovery World
+http://iptvtree.net:8080/live/LeCyGodF/thYAg86ShLywX9FL/157528.m3u8
+
 
 --------------- KIDS ----------------
 
@@ -1805,11 +1811,6 @@ https://newanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 --------------- MALAYSIA ----------------
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Astro_Vaanavil_1996_Logo.png/revision/latest?cb=20210403030420" group-title="Malaysia",Astro Vinmeen
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2105
-https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_primary.mpd
-
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",Sun Music HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5011
@@ -1857,29 +1858,9 @@ http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420467.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
-#EXTINF:-1, group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=1
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.dumbo-tv.my.id/sc/drmastro/index.php?id=211
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV HD
 https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/a803270e-0c66-4a76-923c-621778390008
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://didik.tv/images/logotv2.png", DIDIK TV KPM
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/ccd0b402-bff3-405c-90e9-d5e7751bcb38
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png", 8TV
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://api.dumbo-tv.my.id/sc/drmastro/index.php?id=1114
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png" group-title="Malaysia", Bernama
-https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",Astro Hua Hee Dai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1940,12 +1921,6 @@ http://iptvtree.net:8080/live/LeCyGodF/thYAg86ShLywX9FL/157561.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/ad7a1e1bb94a07f128ce21def6a0adc3.png" group-title="Malaysia",Crime+ Investigation
 http://iptvtree.net:8080/live/LeCyGodF/thYAg86ShLywX9FL/157554.m3u8
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png" group-title="Malaysia",Discovery Science
-http://iptvtree.net:8080/live/LeCyGodF/thYAg86ShLywX9FL/157530.m3u8
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/d0e9f7b4beedf023994c4d1937b97aca.png" group-title="Malaysia",Discovery World
-http://iptvtree.net:8080/live/LeCyGodF/thYAg86ShLywX9FL/157528.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/98ac421179bbfd4dc8f4f4640667e35b.png" group-title="Malaysia",Local Now Family Flix
 http://iptvtree.net:8080/live/LeCyGodF/thYAg86ShLywX9FL/296889.m3u8
