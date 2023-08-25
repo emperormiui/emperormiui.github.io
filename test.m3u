@@ -412,7 +412,7 @@ http://103.30.87.238:443/caknur/segopecel/592
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmunjeng.fiqriaw8.workers.dev/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.postimg.cc/wT56N234/wion.png", WION
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/wT56N234/wion.png", WION
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68572841ba301729d434e393c21/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
