@@ -407,12 +407,12 @@ https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 --------------- NEWS ----------------
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/ABC_HD_Australia_logo.png" group-title="News",ABC News
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3RTJbDd/abchd.png" group-title="News",ABC News
 http://103.30.87.238:443/caknur/segopecel/592
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmunjeng.fiqriaw8.workers.dev/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/574px-WION_news_Logo.svg.png", WION
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.postimg.cc/wT56N234/wion.png", WION
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68572841ba301729d434e393c21/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -420,11 +420,11 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68572841ba301729d434e3
 #EXTINF:-1 group-title="News" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",NHK World Premium
 https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
-#EXTINF:-1 group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png",Berita Satu News World
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/RCHCS4mB/bsw.png",Berita Satu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png",Berita Satu News English
-https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
+#https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QwHwbzd/btv.png" group-title="News",BTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1017,10 +1017,10 @@ http://103.30.87.238:443/caknur/segopecel/5528
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJHwKMfK/discosc.png" group-title="Knowledge",Discovery Science
-http://iptvtree.net:8080/live/LeCyGodF/thYAg86ShLywX9FL/157530.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157530
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkSFnFt4/discow.png" group-title="Knowledge",Discovery World
-http://iptvtree.net:8080/live/LeCyGodF/thYAg86ShLywX9FL/157528.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157528
 
 
 --------------- KIDS ----------------
@@ -1089,7 +1089,7 @@ https://kametv.my.id/putar/doraemon.php
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/629a066860ef810008267b70/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHLQxMb0/tj.png" group-title="Kids",Tom and Jerry
-http://37.49.230.42:8080/Streamteam5723/257KBV6fXGrQMKLV/298500
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298500
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsJMzCQk/indiids.png" group-title="Kids",Indi Kids
 https://12537-stream-ip-tv.xyz/play/yusi/hls/indikids/master.m3u8
@@ -1828,10 +1828,10 @@ https://kametv.my.id/putar/useesatu.php
 https://kametv.my.id/putar/useedua.php
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/4ffb0c9edc5497748d07145b50118c10.png" group-title="Sports",Egg Network
-#http://iptvtree.net:8080/live/LeCyGodF/thYAg86ShLywX9FL/157484.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157484
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkVSbPkh/fs2.png" group-title="Sports",Fox Sports 2
-http://iptvtree.net:8080/live/LeCyGodF/thYAg86ShLywX9FL/157488.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157488
 
 
 --------------- RELIGI ----------------
@@ -1970,45 +1970,45 @@ http://103.30.87.238:443/caknur/segopecel/5377
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",Sun Music HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5011
-https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd
+#https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",Sun TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2310
-https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
+#https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",Adithya
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/915
-https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
+#https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun-News.png",Sun News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5087
-https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_primary.mpd
+#https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_primary.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://aqfadtv.xyz/logos/KTV.png",KTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5088
-https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
+#https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun-Life.png",Sun Life
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5089
-https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
+#https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",Star Vijay HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2707
-https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd
+#https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://aqfadtv.xyz/logos/ZeeTamil.png",Zee Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2311
-https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
+#https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://aqfadtv.xyz/logos/AstroAEC.png",Astro AEC
-http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420467.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/420467
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg", TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
@@ -2021,7 +2021,7 @@ https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",Astro Hua Hee Dai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.dumbo-tv.my.id/sc/drmastro/index.php?id=2308
-https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
+#https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",IQIYI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2031,27 +2031,27 @@ https://quiet-rain-1d8f.wkwkw.workers.dev/linearjitp-playback.astro.com.my/dash-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.dumbo-tv.my.id/sc/drmastro/index.php?id=1005
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.kampung.xyz/c/3c09cfb4117ed995.png",GoShop 2
-https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/1005/default_primary.mpd
+#https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/1005/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.dumbo-tv.my.id/sc/drmastro/index.php?id=2403
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Astro_Shuang_Xing_%282015%29.png/revision/latest?cb=20190106060728",Astro Shuan Xing
-https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_primary.mpd
+#https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.dumbo-tv.my.id/sc/drmastro/index.php?id=2507
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",Astro Quan Jia
-https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
+#https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.dumbo-tv.my.id/sc/drmastro/index.php?id=2600
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://user-images.githubusercontent.com/85995579/128817892-b603cb72-c58e-4863-9c6a-51d5625a7814.png",TVB Jade
-https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
+#https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.dumbo-tv.my.id/sc/drmastro/index.php?id=401
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",TVB Xing He
-https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
+#https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0c1f00f14777b3daf4a912c4310f110:e1db5e07a2bfe0fbf94ce56b5e139f48
@@ -2061,28 +2061,28 @@ https://quiet-rain-1d8f.wkwkw.workers.dev/linearjitp-playback.astro.com.my/dash-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.dumbo-tv.my.id/sc/drmastro/index.php?id=5017
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png",CTI Asia
-https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_primary.mpd
+#https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="Malaysia",Astro Cricket
-http://iptvtree.net:8080/live/LeCyGodF/thYAg86ShLywX9FL/157565.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157565
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/bb06ccbe93af0e4d72aad4c77c5cb4c6.png" group-title="Malaysia",Astro Vaanavil
-http://iptvtree.net:8080/live/LeCyGodF/thYAg86ShLywX9FL/201163.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/201163
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/fa7dae21ca0a660204573e4d010232ab.png" group-title="Malaysia",Astro Xiao Tai Yang
-http://iptvtree.net:8080/live/LeCyGodF/thYAg86ShLywX9FL/201164.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/201164
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/ad7a1e1bb94a07f128ce21def6a0adc3.png" group-title="Malaysia",Crime+ Investigation
-http://iptvtree.net:8080/live/LeCyGodF/thYAg86ShLywX9FL/157554.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157554
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/98ac421179bbfd4dc8f4f4640667e35b.png" group-title="Malaysia",Local Now Family Flix
-http://iptvtree.net:8080/live/LeCyGodF/thYAg86ShLywX9FL/296889.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/296889
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/b92ffe0e329e6808620cf9b9f92f1523.png" group-title="Malaysia",NTV 7
-http://iptvtree.net:8080/live/LeCyGodF/thYAg86ShLywX9FL/174695.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/174695
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/667e24a26ecfe1070bd6a40a113c0159.png" group-title="Malaysia",RTB Sukmaindera
-http://iptvtree.net:8080/live/LeCyGodF/thYAg86ShLywX9FL/299546.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/299546
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/MKNmmqq5/astrotutorsmk.png",Astro Tutor TV SMK
 https://kametv.my.id/putar/malay/tutorsmk.php
@@ -2318,64 +2318,64 @@ http://203.162.235.41:29108/
 --------------- MUSIC ----------------
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Brit_Asia_TV_logo.png" group-title="Music",Brit Asia TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvFhD0HZ/brita.png" group-title="Music",Brit Asia TV
 http://103.30.87.238:443/caknur/segopecel/5448
 
-#EXTINF:-1 tvg-logo="https://cosmos-telecom.by/files/channel/1-perviymuzkanalhd.png" group-title="Music",1Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXKqRTXt/wan.png" group-title="Music",1Music
 http://103.30.87.238:443/caknur/segopecel/5721
 
-#EXTINF:-1 tvg-logo="" group-title="Music",IMTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8gqvVP5/imtv.png" group-title="Music",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/now80.png",NOW 80
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/PJdPv51N/n80.png",NOW 80
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/nowrock.png",NOW ROCK
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/hPPXShS5/nwrok.png",NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Music",XITE ROCK 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm61pjQ8/xite.png" group-title="Music",XITE ROCK 
 https://i.mjh.nz/PlutoTV/623a1b5188ecdc0007c9ef5a-alt.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Music",XITE 80s FLASHBLACK 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm61pjQ8/xite.png" group-title="Music",XITE 80s FLASHBLACK 
 https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-logo="" group-title="Music",XITE 90s THROWBACK 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm61pjQ8/xite.png" group-title="Music",XITE 90s THROWBACK 
 https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-logo="" group-title="Music",XITE ROCK ON
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm61pjQ8/xite.png" group-title="Music",XITE ROCK ON
 https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 group-title="Music" tvg-logo="", Dens ShowBiz
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/rm1Dpr0v/shwbs.png", Dens ShowBiz
 http://210.210.155.37/x6bnqe/s/s35/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Stringray%20Now4K%20HD-FM-Chl-345.jpg" group-title="Music",Stingray Now
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2x4KQwF/stnw.png" group-title="Music",Stingray Now
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/stingraynow.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Stringray%20Djazz%20HD-FirstMedia-Chl-334.jpg" group-title="Music",Stingray Jazz
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yqnhjk0q/stjzz.png" group-title="Music",Stingray Jazz
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/stingrayjazz.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Stringray%20Festival%20HD-FirstMedia-Chl-344.jpg" group-title="Music",Stingray Festival
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLmyF75Q/stfest.png" group-title="Music",Stingray Festival
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/stingrayfestival.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPJLB5Z.png" group-title="Music",i-Konser
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLPCMmfp/iknsr.png" group-title="Music",i-Konser
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264760
 
-#EXTINF:-1 tvg-logo="" group-title="Music",Prambors (G*)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtJMDZvD/prmbs.png" group-title="Music",Prambors
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264761
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmunjeng.fiqriaw8.workers.dev/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685758bcfff0175de4453980cf5/ab7212269b0a4780be13f498fd269bfa.png" group-title="Music",Nusantara
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5bjBSgv/nstra.png" group-title="Music",Nusantara
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmunjeng.fiqriaw8.workers.dev/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827b6deaeb2be6/aeaefeb9436e43fd96fad4bc19fe6187.jpg" group-title="Music",Clubbing TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1z6tWqHf/club.png" group-title="Music",Clubbing TV
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856fd0d66d017032d0246a7f90/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmunjeng.fiqriaw8.workers.dev/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-name="" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685840ff0490184616d5ba53e65/6f255a28dad9438393d033696d4be336.jpg" group-title="Music",Song TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyWRTgh9/song.png" group-title="Music",Song TV
 https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff0490184560acf62436a/manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2400,16 +2400,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MUSIKChannel/sa_dash_vmx/MusicChannel.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs8jk6jW/mtv90s.png" group-title="Music",MTV 90s
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Music",Vevo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFt5X5Yb/vevo.png" group-title="Music",Vevo
 http://103.30.87.238:443/caknur/segopecel/4815
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFt5X5Yb/vevo.png group-title="Music",VEVO 70s
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFt5X5Yb/vevo.png" group-title="Music",VEVO 70s
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFt5X5Yb/vevo.png group-title="Music",VEVO 80s
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFt5X5Yb/vevo.png" group-title="Music",VEVO 80s
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFt5X5Yb/vevo.png group-title="Music",VEVO 90s
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFt5X5Yb/vevo.png" group-title="Music",VEVO 90s
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/Y9Yvj1ch/nagaswara.png",Dangdut Koplo Indonesia - Nagaswara
