@@ -559,44 +559,44 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b6088c3016b87d64b9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yMDhvRs/hbosig.png" group-title="Movies",HBO Signature
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yMDhvRs/hbosig.png" group-title="Movies",HBO Signature Andro 6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yMDhvRs/hbosig.png" group-title="Movies",HBO Signature FHD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbosigp.openwindow040.workers.dev
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
-#http://103.30.87.238:443/caknur/segopecel/5712
+http://103.30.87.238:443/caknur/segopecel/5712
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmunjeng.fiqriaw8.workers.dev/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QGGS9gQ/hbohits.png" group-title="Movies",HBO Hits
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-#http://103.30.87.238:443/caknur/segopecel/5707
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QGGS9gQ/hbohits.png" group-title="Movies",HBO Hits Andro 6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QGGS9gQ/hbohits.png" group-title="Movies",HBO Hits FHD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbohitsp.openwindow040.workers.dev
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+http://103.30.87.238:443/caknur/segopecel/5707
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmunjeng.fiqriaw8.workers.dev/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhxhQmT3/hbofam.png" group-title="Movies",HBO Family 
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-#http://103.30.87.238:443/caknur/segopecel/5712
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhxhQmT3/hbofam.png" group-title="Movies",HBO Family Andro 6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhxhQmT3/hbofam.png" group-title="Movies",HBO Family FHD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbofamp.openwindow040.workers.dev
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+http://103.30.87.238:443/caknur/segopecel/5712
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmunjeng.fiqriaw8.workers.dev/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzsGKbXH/cinemax.png" group-title="Movies",Cinemax 
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-#http://103.30.87.238:443/caknur/segopecel/5717
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzsGKbXH/cinemax.png" group-title="Movies",Cinemax Andro 6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzsGKbXH/cinemax.png" group-title="Movies",Cinemax FHD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cinemaxp.openwindow040.workers.dev
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+http://103.30.87.238:443/caknur/segopecel/5717
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxYBCP8h/tvnmovies.png" group-title="Movies",TVN Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
