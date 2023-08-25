@@ -110,47 +110,62 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png" group-title="Local",BNTV
 http://103.30.87.238:443/caknur/segopecel/5733
 
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.postimg.cc/4y2VWtcD/ficom.png",Ficom Channel
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryf10QzF/20221117-134709.png" group-title="Local",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cL6b7Djc/magna.png" group-title="Local",Magna Channel
+#https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+http://103.30.87.238:443/caknur/segopecel/5732
+
 
 --------------- LOKAL DIGITAL ----------------
 
 
 #EXTINF:-1  group-title="Local Digital" tvg-logo="https://i.postimg.cc/W40zJQvW/transtv.png",Trans TV
-#http://103.166.27.2:800/play/a01b
-http://103.30.87.238:443/caknur/segopecel/5621
+http://103.166.27.2:800/play/a01b
+#http://103.30.87.238:443/caknur/segopecel/5621
 
 #EXTINF:-1  group-title="Local Digital" tvg-logo="https://i.postimg.cc/PfyCkNR7/antv.jpg",ANTV
 https://ythls.onrender.com/video/io8_c0chdBc.m3u8
 
 #EXTINF:-1  group-title="Local Digital" tvg-logo="https://i.postimg.cc/1t5KC0JQ/moji.png",Moji TV
-#http://103.166.27.2:800/play/a017
-http://103.30.87.238:443/caknur/segopecel/4928
+http://103.166.27.2:800/play/a017
+#http://103.30.87.238:443/caknur/segopecel/4928
 
 #EXTINF:-1  group-title="Local Digital" tvg-logo="https://i.postimg.cc/pdNWJqVm/indosiar.png",Indosiar
 http://103.166.27.2:800/play/a016
 
 #EXTINF:-1  group-title="Local Digital" tvg-logo="https://i.postimg.cc/dV1xmq3X/sctv.png",SCTV
-#http://103.166.27.2:800/play/a015
-http://103.30.87.238:443/caknur/segopecel/890
+http://103.166.27.2:800/play/a015
+#http://103.30.87.238:443/caknur/segopecel/890
 
 #EXTINF:-1  group-title="Local Digital" tvg-logo="https://i.postimg.cc/pVCZFSVL/trans7.png",Trans 7
-#http://103.166.27.2:800/play/a01c
-http://103.30.87.238:443/caknur/segopecel/5622
+http://103.166.27.2:800/play/a01c
+#http://103.30.87.238:443/caknur/segopecel/5622
 
 #EXTINF:-1  group-title="Local Digital" tvg-logo="https://i.postimg.cc/QCvJQrzL/kompas.png",Kompas TV
 https://ythls.onrender.com/video/4rmf-lk3ito.m3u8
 
 #EXTINF:-1  group-title="Local Digital" tvg-logo="https://i.postimg.cc/2y4WwVhW/tvon.png",TVONE
-https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
+#https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
 
 #EXTINF:-1 group-title="Local Digital" tvg-logo="https://i.postimg.cc/NF1GMty1/enmentari.png",Mentari TV
-#http://103.166.27.2:800/play/a018
-http://103.30.87.238:443/caknur/segopecel/5372
+http://103.166.27.2:800/play/a018
+#http://103.30.87.238:443/caknur/segopecel/5372
 
 #EXTINF:-1 group-title="Local Digital" tvg-logo="https://i.postimg.cc/2y4WwVhW/tvon.png",tvOne
 http://103.152.118.53:80/play/yt/by-id/yNKvkPJl-tg/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/TVRIWorld.png" group-title="Local",TVRI World
 http://103.30.87.238:443/caknur/segopecel/5277
+
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.postimg.cc/J4RbtX3W/jawapostv.png",JawaposTV
+https://v2.siar.us/jawapostv/live/chunks.m3u8
 
 
 --------------- TV DAERAH ----------------
@@ -171,14 +186,8 @@ https://newanv-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=a7fd43751f24d64a16f6f4d289ebd395:2ef65773d541ccaf8ba61a3d141711f0
 https://newanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
-#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://i.postimg.cc/4y2VWtcD/ficom.png",Ficom Channel
-https://v3.siar.us/ficomchannel/live/playlist.m3u8
-
 #EXTINF:-1 group-title="TV Daerah" tvg-logo="https://i.postimg.cc/5y0L7qkd/jpm.png",JPM TV
 https://63b2dc7196c38.streamlock.net:1937/ch6/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://i.postimg.cc/J4RbtX3W/jawapostv.png",JawaposTV
-https://v2.siar.us/jawapostv/live/chunks.m3u8
 
 #EXTINF:-1 group-title="TV Daerah" tvg-logo="https://i.postimg.cc/PfwtZ8qP/garudatv.png",Garuda TV
 http://edge.linknetott.swiftserve.com/channelgroup1/cg002production/ch45/02.m3u8
@@ -313,7 +322,7 @@ http://wms.klikhost.com:1935/tegartv/tegartv/chunklist_w1639503258.m3u8
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59SPPB0Z/20221117-135302.png" group-title="TV Daerah", Elshinta TV
-http://rr2.dens.tv/s/s10/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Elshinta_TV
+http://rr2.dens.tv/s/s10/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVXmDqFK/bmstv.png" group-title="TV Daerah",Banyumas TV
 http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
@@ -360,15 +369,6 @@ http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hZStTtk/20221117-134746.png" group-title="TV Daerah",Batam TV
 http://122.248.43.138:1935/ch5/myStream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryf10QzF/20221117-134709.png" group-title="TV Daerah",TVKU
-http://103.30.1.14:8080/hls/live.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-url="" tvg-logo="https://i.postimg.cc/cL6b7Djc/magna.png" group-title="TV Daerah",Magna Channel
-#https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-http://103.30.87.238:443/caknur/segopecel/5732
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpQVLw5v/20221117-134628.png" group-title="TV Daerah",SMTV
 http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
 
@@ -403,7 +403,7 @@ https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 --------------- NEWS ----------------
 
 
-#EXTINF:-1 tvg-id="ABCAustralia" tvg-name="ABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/ABC_HD_Australia_logo.png" group-title="News & Opinion",ABC News
+#EXTINF:-1 tvg-id="ABCAustralia" tvg-name="ABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/ABC_HD_Australia_logo.png" group-title="News",ABC News
 http://103.30.87.238:443/caknur/segopecel/592
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -684,7 +684,7 @@ http://210.210.155.35/uq2663/h/h192/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png" group-title="Movies", My Cinema Asia
 http://210.210.155.35/uq2663/h/h193/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="", My Cinema Europe
+#EXTINF:-1 group-title="Movies" tvg-logo="", My Cinema Europe
 http://210.210.155.35/uq2663/h/h18/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-myfamily_big.png" group-title="Movies", My Family Channel
@@ -1008,6 +1008,9 @@ http://iptvtree.net:8080/live/LeCyGodF/thYAg86ShLywX9FL/157528.m3u8
 --------------- KIDS ----------------
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="Kids",Toon Goggles
+http://103.30.87.238:443/caknur/segopecel/5533
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2n8iDR.png" group-title="Kids",Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
@@ -1016,9 +1019,6 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 #EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/012020/moonbug_kids_on_white.png?N15F03k4i.bbYpm4vkwIU0HwhRsSA4YX&itok=zAZIL7t_" group-title="Kids",Moonbug Kids
 #https://moonbug-rokuus.amagi.tv/playlist.m3u8
 http://103.30.87.238:443/caknur/segopecel/5388
-
-#EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="Kids", Biznet Kids
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FjfKJvF/yay.png" group-title="Kids",SONY Yay
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
