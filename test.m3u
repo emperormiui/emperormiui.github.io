@@ -973,8 +973,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChanne
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QNbS37X3/wild.png" group-title="Knowledge",National Geographic Wild
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
-#https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-http://103.30.87.238:443/caknur/segopecel/71
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+#http://103.30.87.238:443/caknur/segopecel/71
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Mp7KXzX1/ap.png" group-title="Knowledge",Animal Planet
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
@@ -2008,7 +2008,7 @@ http://103.30.87.238:443/caknur/segopecel/5377
 #https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://aqfadtv.xyz/logos/AstroAEC.png",Astro AEC
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/420467
+#http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/420467
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg", TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
@@ -2143,13 +2143,14 @@ https://kametv.my.id/putar/malay/citra.php
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90Zj64TY/astrosensasi.png" group-title="Malaysia",Astro Sensasi
-#https://ktpremium.com:443/90025543/78802/910978
+https://ktpremium.com:443/90025543/78802/910978
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydwHphJN/astrowarna.png" group-title="Malaysia",Astro Warna
 https://kametv.my.id/putar/malay/warna.php
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d1sVFjnt/astroria.png" group-title="Malaysia",Astro Ria
-https://kametv.my.id/putar/astroria.php
+#https://kametv.my.id/putar/astroria.php
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/158347
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwXtdLZZ/ceria.png" group-title="Malaysia",Astro Ceria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2158,7 +2159,8 @@ https://quiet-rain-1d8f.wkwkw.workers.dev/linearjitp-playback.astro.com.my/dash-
 #https://kametv.my.id/putar/malay/ceria.php
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NqzHk5N/prima.png" group-title="Malaysia",Astro Prima
-https://kametv.my.id/putar/astroprima.php
+#https://kametv.my.id/putar/astroprima.php
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157467
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBvvNpLD/tv1.png" group-title="Malaysia",TV 1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
@@ -2674,3 +2676,43 @@ https://cdnmeraukepro1.rri.co.id/web-rrimeraukepro1.mp3
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="Radio",PRAMBORS
 https://22253.live.streamtheworld.com/PRAMBORS_FM.mp3
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Angry Birds Toons" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 24/7 Angry Birds Toons
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298493
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 BabyBus Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 24/7 BabyBus Indonesia
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298494
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Donald Ducks" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 24/7 Donald Ducks
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298495
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Doraemon" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 24/7 Doraemon
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298496
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Just For Laughs" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 24/7 Just For Laughs
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298497
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Mr Bean Cartoon" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 24/7 Mr Bean Cartoon
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298498
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Mr. Bean Classic" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 24/7 Mr. Bean Classic
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298499
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Tom And Jerry" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 24/7 Tom And Jerry
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298500
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Upin Ipin" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 24/7 Upin Ipin
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298501
+#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Warkop DKI" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: 24/7 Warkop DKI
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298502
+#EXTINF:-1 tvg-id="" tvg-name="ID: Champion TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9cb6c8614be38cc1944a1747d414bd86.png" group-title="Indonesia",ID: Champion TV 1
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298512
+#EXTINF:-1 tvg-id="" tvg-name="ID: Champion TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/62e36432e548966b8c3a4a2afe63ee7e.png" group-title="Indonesia",ID: Champion TV 2
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298513
+#EXTINF:-1 tvg-id="" tvg-name="ID: Champion TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/676a8a5e1a9ddc807d4c646db2863591.png" group-title="Indonesia",ID: Champion TV 3
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298514
+#EXTINF:-1 tvg-id="" tvg-name="ID: Chinese Drama" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: Chinese Drama
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298516
+#EXTINF:-1 tvg-id="" tvg-name="ID: Golf" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: Golf
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298534
+#EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Indonesia",ID: Cinemax
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Indonesia",ID: HBO
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197972
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Indonesia",ID: HBO Family
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197055
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Indonesia",ID: HBO Hits
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/196480
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Indonesia",ID: HBO Signature
