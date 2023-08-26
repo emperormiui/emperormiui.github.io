@@ -2802,11 +2802,11 @@ https://22253.live.streamtheworld.com/PRAMBORS_FM.mp3
 --------------- TEST ----------------
 
 
-#EXTINF:-1 tvg-logo="https://tv.qreatifku.my.id/img/smoto.png" group-title="SPORTS",SKY SPORT MOTOGP
+#EXTINF:-1 tvg-logo="https://tv.qreatifku.my.id/img/smoto.png" group-title="SPORT HD",SKY SPORT MOTOGP
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://tv.qreatifku.my.id/img/vpe.png" group-title="SPORTS",VIA PLAY XTRA
+#EXTINF:-1 tvg-logo="https://tv.qreatifku.my.id/img/vpe.png" group-title="SPORT HD",VIA PLAY XTRA
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 #EXTINF:-1 group-title="SPORT HD" tvg-logo="https://tv.qreatifku.my.id/img/prima1.png" ,PRIMA SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
