@@ -7,10 +7,12 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFdx5H60/metro.png" group-title="Local",Metro TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
-https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+http://103.30.87.238:443/caknur/segopecel/5410
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dV1xmq3X/sctv.png" group-title="Local",SCTV
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+http://103.30.87.238:443/caknur/segopecel/890
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdNWJqVm/indosiar.png" group-title="Local",Indosiar 
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
@@ -29,14 +31,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W40zJQvW/transtv.png" group-title="Local",Trans TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
-https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-#http://103.30.87.238:443/caknur/segopecel/890
+#https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+http://103.30.87.238:443/caknur/segopecel/890
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pVCZFSVL/trans7.png" group-title="Local",Trans 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
-https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-#http://103.30.87.238:443/caknur/segopecel/5622
+#https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+http://103.30.87.238:443/caknur/segopecel/5622
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJRpG4Zz/nettv.png" group-title="Local",NET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1146,7 +1148,7 @@ https://webudit.cdnhks.lol/lb/premium652/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xCm2VzM/dc.png" group-title="Kids",Disney Channel
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy5.cdndac.lol/ddy5/premium314/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium314/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzQP3p5Y/zoomoo.png" group-title="Kids",Zoo Moo 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1302,32 +1304,32 @@ https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/SK9Gph3H/tsn5.png",TSN 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy5.cdndac.lol/ddy5/premium115/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium115/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/QtrJ8zrC/tsn4.png",TSN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy5.cdndac.lol/ddy5/premium114/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium114/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/pTYYpB2Z/tsn3.png",TSN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy5.cdndac.lol/ddy5/premium113/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium113/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/6qMrh544/tesn2.png",TSN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy5.cdndac.lol/ddy5/premium112/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium112/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/6qMrh544/tesn2.png",TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy5.cdndac.lol/ddy5/premium111/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium111/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fTRD5yQB/ufcfp.png",UFC Fight Pass
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy2.cdndac.lol/ddy2/premium55/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium55/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/d1DCR419/intertv.png",Inter TV
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=691522&extension=ts&play_token=kslOS6jztM
@@ -1347,12 +1349,12 @@ http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=811939&exte
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Zq4DyQTL/foxdeportes.png",Fox Deportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.cdndac.lol/ddh2/premium643/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium643/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/FRKWTJkd/ziggosportselect.png",Ziggo Sport Select
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.cdndac.lol/ddh2/premium393/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium393/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/7hHCwncQ/espndeportes.png",ESPN Deportes
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=75284&extension=ts&play_token=4Gy7xU2Mh5
@@ -1360,7 +1362,7 @@ http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=75284&exten
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Y9f45sXW/movistarlaliga.png",Movistar La Liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy1.cdndac.lol/ddy1/premium84/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium84/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/MTqqt3Kw/daznf1.png",DAZN F1
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=978374&extension=ts&play_token=SMixIegYJc
@@ -1368,27 +1370,27 @@ http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=978374&exte
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/dQ87tGdz/daznlaliga.png",DAZN La Liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy5.cdndac.lol/ddy5/premium538/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium538/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/tTXpDnSM/dazn1.png",DAZN 1 DE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh1.cdndac.lol/ddh1/premium426/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium426/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/hG8K91rm/dazn2.png",DAZN 2 DE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh1.cdndac.lol/ddh1/premium427/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium427/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/tTXpDnSM/dazn1.png",DAZN 1 ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh1.cdndac.lol/ddh1/premium445/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium445/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/hG8K91rm/dazn2.png",DAZN 2 ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy1.cdndac.lol/ddy1/premium446/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium446/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2hZ0MLx/dazn3.png",DAZN 3 ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1409,17 +1411,17 @@ http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=107433&exte
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKmMbb6P/sporttv3.png" group-title="Sports",Sport TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.cdndac.lol/ddh2/premium454/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium454/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGZhpgV8/sporttv2.png" group-title="Sports",Sport TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.cdndac.lol/ddh2/premium74/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium74/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNz8WrQg/sporttv1.png" group-title="Sports",Sport TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh1.cdndac.lol/ddh1/premium49/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium49/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RCjFNXvd/sscextra3.png" group-title="Sports",SSC Extra 3
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1002781&extension=ts&play_token=r2L1oHpJb5
@@ -1591,7 +1593,7 @@ https://webudit.cdnhks.lol/lb/premium414/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Npr6gbT/wwe.png" group-title="Sports",WWE Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#https://ddy1.cdndac.lol/ddy1/premium376/playlist.m3u8
+#https://webudit.cdnhks.lol/lb/premium376/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Npr6gbT/wwe.png" group-title="Sports",WWE Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1689,7 +1691,7 @@ http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=691540&exte
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Lsn6t04w/ass4.png" group-title="Sports", Astro Supersports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddy1.cdndac.lol/lb/premium126/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium126/playlist.m3u8
 #http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1111031&extension=ts&play_token=Pugwij228j
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxRQ4B19/ass3.png" group-title="Sports", Astro Supersports 3
@@ -1704,7 +1706,8 @@ http://103.30.87.238:443/caknur/segopecel/5719
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #https://webudit.cdnhks.lol/lb/premium124/playlist.m3u8
 #http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1111033&extension=ts&play_token=8v9semkA9z
-http://198.16.100.90:8278/Assp2/playlist.m3u8?tid=ME1E4056565440565654&ct=19249&tsum=1bf59bebb8a43a859eae9f1b3759f844
+#http://198.16.100.90:8278/Assp2/playlist.m3u8?tid=ME1E4056565440565654&ct=19249&tsum=1bf59bebb8a43a859eae9f1b3759f844
+http://103.30.87.238:443/caknur/segopecel/5550
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRkqcFMc/ass1.png" group-title="Sports", Astro Supersports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1761,37 +1764,37 @@ https://webudit.cdnhks.lol/lb/premium98/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Vk3MMrLX/bein7.png" group-title="Sports", beIN Sports 7 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.cdndac.lol/ddh2/premium97/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium97/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzLGcv8H/bein6.png" group-title="Sports", beIN Sports 6 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.cdndac.lol/ddh2/premium96/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium96/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqpgkBhB/bein5.png" group-title="Sports", beIN Sports 5 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.cdndac.lol/ddh2/premium95/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium95/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fysdJ6CX/bein4.png" group-title="Sports", beIN Sports 4 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.cdndac.lol/ddh2/premium94/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium94/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0cXsBpN/bein3.png" group-title="Sports", beIN Sports 3 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.cdndac.lol/ddh2/premium93/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium93/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVXtZpH6/bein2.png" group-title="Sports", beIN Sports 2 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.cdndac.lol/ddh2/premium92/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium92/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZ3M0gZS/bein1.png" group-title="Sports", beIN Sports 1 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://ddh2.cdndac.lol/ddh2/premium91/playlist.m3u8
+https://webudit.cdnhks.lol/lb/premium91/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmjYksMC/eurosport2.png" group-title="Sports", Eurosports 2
 http://eu.majes-line.co/play/live.php?mac=00:1A:79:6F:D5:39&stream=577962&extension=ts&play_token=ic7wEJbsvj
@@ -2832,7 +2835,7 @@ https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099198
 #EXTINF: -1 tvg-name="ORANGE SPORT 3" tvg-logo="https://logo.iptveditor.com/orangesport.png" group-title="SPORT HD", ORANGE SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099199
+https://webudit.cdnhks.lol/lb/premium441/index.m3u8
 #EXTINF: -1 tvg-name="ORANGE SPORT 4" tvg-logo="https://logo.iptveditor.com/orangesport.png" group-title="SPORT HD", ORANGE SPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
