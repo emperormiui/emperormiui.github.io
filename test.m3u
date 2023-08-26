@@ -1103,28 +1103,28 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157528
 --------------- KIDS ----------------
 
 
-#EXTINF:-1 group-title="Kids"  tvg-logo="https://tv.qreatifku.my.id/img/tayo.png",Tayo TV
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/Hkp4BLt4/tayo.png",Tayo TV
 https://ythls.onrender.com/video/XZOMbuuw1qo.m3u8
 
-#EXTINF:-1 group-title="Kids"  tvg-logo="https://tv.qreatifku.my.id/img/cocobi.png",Cocobi TV
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/pXQJfjKL/cocobi.png",Cocobi TV
 https://ythls.onrender.com/video/N1frsl9wedQ.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://tv.qreatifku.my.id/img/pokemontv.png",Pokemon TV
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/CK2Ghspm/pokemon.png",Pokemon TV
 https://ythls.onrender.com/video/ycCN7gAQP4U.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://tv.qreatifku.my.id/img/cocomelon.png",Cocomelon TV
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/ydSFk3VB/ccmlon.png",Cocomelon TV
 https://ythls.onrender.com/video/3TZWEAdRLt4.m3u8
 
-#EXTINF:-1 group-title="Kids"  tvg-logo="https://tv.qreatifku.my.id/img/daveava.png",Dave And Ava TV
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/HWXwmMZ9/dave.png",Dave And Ava TV
 https://ythls.onrender.com/video/QtXuawlIc3s.m3u8
 
-#EXTINF:-1 group-title="Kids"  tvg-logo="https://tv.qreatifku.my.id/img/babybus.png",Babybus TV
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/fTsxRb1n/bbybus.png",Babybus TV
 https://ythls.onrender.com/video/bZEFLDUrk8o.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.qreatifku.my.id/img/babyzoo.png" group-title="Kids",Baby Zoo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4cfgSNK/bbyzoo.png" group-title="Kids",Baby Zoo
 https://ythls.onrender.com/video/Gd_CMryHXm4.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.qreatifku.my.id/img/thewiggles.png" group-title="Kids",The Wiggles
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkLnXVYK/thewigg.png" group-title="Kids",The Wiggles
 https://ythls.onrender.com/video/iE1JX41wG1o.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncKLrnV9/tgg.png" group-title="Kids",Toon Goggles
@@ -1325,10 +1325,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
 --------------- SPORTS ----------------
 
-#EXTINF:-1 tvg-logo="https://tv.qreatifku.my.id/img/partypoker.png" group-title="Sports", Party Poker TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxZqKm9z/partypoker.png" group-title="Sports", Party Poker TV
 https://ythls.onrender.com/video/YFxCU5KkubY.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzwkymMX/trues4.png" group-title="Sports",TH: True Sport 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzwkymMX/trues4.png" group-title="Sports",True Sport 4
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/285569
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/PxPpcCNz/trues3.png",True Sport 3
@@ -2907,19 +2907,19 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2Qc0fZq/viaplayext.png" group-title="Sports",VIA PLAY XTRA
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://tv.qreatifku.my.id/img/prima1.png",PRIMA SPORT 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/SxDL5pT0/prima1.png",PRIMA SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 https://webudit.cdndac.lol/lb/premium583/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://tv.qreatifku.my.id/img/prima2.png",PRIMA SPORT 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/hGv8R36X/prima2.png",PRIMA SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 https://webudit.cdndac.lol/lb/premium584/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://tv.qreatifku.my.id/img/prima4.png",PRIMA SPORT 4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/KjPB5XkH/prima4.png",PRIMA SPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 https://webudit.cdndac.lol/lb/premium585/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://tv.qreatifku.my.id/img/prima3.png",PRIMA SPORT 3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/kG3W8M4S/prima3.png",PRIMA SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 https://webudit.cdndac.lol/lb/premium586/index.m3u8
