@@ -104,13 +104,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca65af90adc5e3ddb180e16426bb67da:b6f87a3a128dbd75ead036f596edeae7
 #https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
-https://210.210.155.37/uq2663/s/s11/02.m3u8 tvri
+http://210.210.155.37/uq2663/s/s11/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qM1H100h/jaktv.png" group-title="Local",JAK TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2c9087e5432ce2c2f4ae8e1fd77ae4c:f7a50262991ca7d505fce1572a7f0c2a
 #https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-https://210.210.155.37/uq2663/s/s13/index.m3u8
+http://210.210.155.35/x6bnqe/s/s13/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHtfttwM/vtv.png" group-title="Local",VTV ID
 https://kametv.my.id/putar/vivatv.m3u8
@@ -1025,7 +1025,7 @@ https://quiet-rain-1d8f.wkwkw.workers.dev/linearjitp-playback.astro.com.my/dash-
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.postimg.cc/3NCWPmj6/densler.png",Dens Learning & Knowledge
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoveryasia.m3u8
-http://210.210.155.35/x6bnqe/s/s36/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Dens_Learning_n_Knowledge
+http://210.210.155.35/x6bnqe/s/s36/index.m3u8
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.postimg.cc/sDmvmPgG/discoasi.png",Discovery Asia
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoveryasia.m3u8
