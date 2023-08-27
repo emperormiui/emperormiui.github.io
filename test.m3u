@@ -104,13 +104,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca65af90adc5e3ddb180e16426bb67da:b6f87a3a128dbd75ead036f596edeae7
 #https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
-http://210.210.155.37/uq2663/s/s11/index.m3u8
+http://210.210.155.35/qwr9ew/s/s11/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=TVRI
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qM1H100h/jaktv.png" group-title="Local",JAK TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2c9087e5432ce2c2f4ae8e1fd77ae4c:f7a50262991ca7d505fce1572a7f0c2a
 #https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-http://210.210.155.35/x6bnqe/s/s13/index.m3u8
+http://210.210.155.35/x6bnqe/s/s13/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Jak_tv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHtfttwM/vtv.png" group-title="Local",VTV ID
 https://kametv.my.id/putar/vivatv.m3u8
@@ -2037,11 +2037,11 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
 #EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/rpswwdm9/mekkahtv.png",Makkah TV
-#http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+#http://210.210.155.35/qwr9ew/s/s28/index.m3u8
 http://103.30.87.238:443/caknur/segopecel/586
 
 #EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/DZSB2cLP/madinahtv.png",Madinah TV
-#http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#http://210.210.155.35/qwr9ew/s/s27/index.m3u8
 http://103.30.87.238:443/caknur/segopecel/5556
 
 #EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/vTG75C4n/muslimtv.png"group-title="Religi",Muslim TV
