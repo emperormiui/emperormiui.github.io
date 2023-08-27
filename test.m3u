@@ -611,10 +611,11 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf10
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 #http://ktpremium.com:2095/live/90025543/78802/26076.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnWDY57P/hbo.png" group-title="Movies",HBO Andro 6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnWDY57P/hbo.png" group-title="Movies",HBO FHD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbop.openwindow040.workers.dev
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+http://103.30.87.238:443/caknur/segopecel/5711
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmunjeng.fiqriaw8.workers.dev/license-proxy-widevine/cenc/?specConform=true
@@ -1331,7 +1332,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDNDKTYd/dw.png" group-title="Kids",Dreamworks
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
+http://103.30.87.238:443/caknur/segopecel/5705
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NF1GMty1/enmentari.png" group-title="Kids",Mentari TV
 #http://103.166.27.2:800/play/a018
@@ -1340,7 +1342,7 @@ http://103.30.87.238:443/caknur/segopecel/5372
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htw152g1/miao.png" group-title="Kids",Miao Mi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e179c8d2ae0ddf520b905823d417f028:327c62356a811a1c0802cf0c4f5a1d50
-https://nyanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
 
 --------------- SPORTS ----------------
