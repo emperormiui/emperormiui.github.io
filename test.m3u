@@ -910,8 +910,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jndm8Ppb/arirang.png" group-title="Entertainment",Arirang
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9bc202de2b177ff5bb64dacb0ab3fd8d:d71b81338f16bf009608665b08a49197
-#https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
-http://103.30.87.238:443/caknur/segopecel/5484
+https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+#http://103.30.87.238:443/caknur/segopecel/5484
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5kX48hf/kix.png" group-title="Entertainment",KIX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
