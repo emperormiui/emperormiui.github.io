@@ -147,7 +147,7 @@ http://103.30.87.238:443/caknur/segopecel/5277
 #EXTINF:-1 group-title="Local" tvg-logo="https://i.postimg.cc/J4RbtX3W/jawapostv.png",JawaposTV
 https://v2.siar.us/jawapostv/live/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/VLsgYbW2/rctv.png" group-title="Local",RCTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLsgYbW2/rctv.png" group-title="Local",RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zv8jHLZb/inspi.png" group-title="Local",Inspira TV
@@ -452,12 +452,12 @@ http://103.30.87.238:443/caknur/segopecel/592
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmunjeng.fiqriaw8.workers.dev/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/wT56N234/wion.png", WION
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/wT56N234/wion.png",WION
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68572841ba301729d434e393c21/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="News" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",NHK World Premium
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/QMqfxWtB/nhkprem.png",NHK World Premium
 https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/RCHCS4mB/bsw.png",Berita Satu World
@@ -993,14 +993,17 @@ http://cdn-telkomsel-01.akamaized.net/Content/dash/Live/channel(bd35274e-60ca-4e
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tghxvVCd/warkopdki.png" group-title="Entertainment",Warkop DKI
 #https://kametv.my.id/putar/warkopdki.php
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHxHcsyg/re.png" group-title="Entertainment",Rock Entertainment
-http://210.210.155.35:80/dr9445/h/h16/index.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
+#http://210.210.155.35:80/dr9445/h/h16/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fygDF260/tlc.png" group-title="Entertainment",TLC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
-#https://nyanv-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvXzqxnH/hgtv.png" group-title="Entertainment",HGTV
 http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
@@ -3002,7 +3005,7 @@ https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099145
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099147
-#EXTINF:-1tvg-logo="https://i.postimg.cc/g0r2cfdG/skysportsmainevent.png" group-title="Sports",SKY SPORTS MAIN EVENT
+#EXTINF:-1tvg-logo="https://i.postimg.cc/43G8g1Jk/skymain.png" group-title="Sports",SKY SPORTS MAIN EVENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099148
